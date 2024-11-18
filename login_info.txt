@@ -1,0 +1,13 @@
+Users:
+Email: tesla@gmail.com
+Password: tesla1234
+
+Developers:
+Email: luksa@dev.com
+Password: luka1234
+Email: dev1@gmail.com
+Password: dev1234
+
+Admins:
+Email: ivan@gmail.com
+Password: test1234
