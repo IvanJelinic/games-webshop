@@ -314,6 +314,10 @@ button:hover {
     margin: 5px 0; 
 }
 
+.edit-form label{
+    color: #333;
+}
+
 .toggle-button { 
     cursor: pointer; 
     color: blue; 
