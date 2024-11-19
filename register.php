@@ -53,9 +53,10 @@ $conn->close();
                 <option value="user">User</option>
                 <option value="developer">Developer</option>
             </select>
-            
             <button type="submit">Register</button>
         </form>
+        <br>
+        <p>Already have an account? <a href="login.php" class="login-link">Login</a>
     </div>
 </body>
 </html>

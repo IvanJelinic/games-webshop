@@ -32,6 +32,15 @@ body {
     color: #00aaff;
 }
 
+.login-link{
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+    color: #007bff;
+    text-decoration: none;
+}
+
 .form-group {
     margin-bottom: 15px;
 }
